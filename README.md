@@ -2,8 +2,8 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>Configuring Active Directory and Unlocking Accounts (Azure)</h1>
-This tutorial outlines the configuration of Active Directory and how to unlock clients and/or employees accounts within Azure Virtual Machines.<br />
+<h1>Configuring Active Directory (Azure)</h1>
+This tutorial outlines the configuration of Active Directory within Azure Virtual Machines.<br />
 
 
 <h2>Environments and Technologies Used</h2>
