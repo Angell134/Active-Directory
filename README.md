@@ -22,8 +22,7 @@ This tutorial outlines the configuration of Active Directory and how to unlock c
 
 - Step 1- OPEN Server Manager on your system and PRESS on "Add roles and features" under "Configure this local server"
 - Step 2- PRESS on "Server roles" under "Server Selection" and CHECK the box next to where it says "Active Directory Domain Services," then click on NEXT until you can press INSTALL
-- Step 3- 
-- Step 4- 
+
 
 <h2>Deployment and Configuration Steps</h2>
 
@@ -39,14 +38,7 @@ This tutorial outlines the configuration of Active Directory and how to unlock c
 
 </p>
 <p>
-After selecting 'Add Roles and Features' under the 'Configure this local server' section, the following screen will appear. With the wizard open, navigate to the 'Server Roles' section under 'Server Selection'. Check the box next to 'Active Directory Domain Services', then proceed by clicking 'Next' through the remaining steps until the 'Install' option becomes available.
+After selecting 'Add Roles and Features' under the 'Configure this local server' section, the following screen will appear. With the wizard open, navigate to the 'Server Roles' section under 'Server Selection'. Check the box next to 'Active Directory Domain Services', then proceed by clicking 'Next' through the remaining steps until the 'Install' option becomes available. After this, Active Directory is installed.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
